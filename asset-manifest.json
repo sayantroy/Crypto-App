@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sayantroy/Crypto-App/static/css/main.c57b6e6c.css",
+    "main.js": "/sayantroy/Crypto-App/static/js/main.f84f8e11.js",
+    "index.html": "/sayantroy/Crypto-App/index.html",
+    "main.c57b6e6c.css.map": "/sayantroy/Crypto-App/static/css/main.c57b6e6c.css.map",
+    "main.f84f8e11.js.map": "/sayantroy/Crypto-App/static/js/main.f84f8e11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c57b6e6c.css",
+    "static/js/main.f84f8e11.js"
+  ]
+}
